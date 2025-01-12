@@ -6,5 +6,6 @@ Il vous faudra pour executer le projet:
 - installer la librairie pillow 
 
 pour installer pillow: 
-pip install pillow  (dans le terminal)
+- pip install pillow
+(dans le terminal)
 
